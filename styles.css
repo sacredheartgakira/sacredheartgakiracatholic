@@ -1,0 +1,37 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+header {
+  background-color: #b71c1c;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+.logo {
+  width: 100px;
+  height: auto;
+}
+main {
+  padding: 2rem;
+}
+.about, .info, .stream {
+  margin-bottom: 2rem;
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  background-color: #b71c1c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
